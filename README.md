@@ -1,16 +1,43 @@
-<h1 align="center">Achala Arunalu - AI Product Management and Delivery Governance</h1>
+<h1 align="center">Hi 👋, I'm Achala Arunalu</h1>
+<h3 align="center">Product Manager | Technical Lead | Software Engineer</h3>
 
 <p align="center">
-  <b>Stablecoin Banking and Fintech, <a href="https://stablepeg.org/">Stablepeg.org</a></b><br>
-  <b>Sustainability tech., <a href="https://susdevos.org/">Susdevos.org</a></b><br>
-  <b>Real Estate tech., <a href="https://liveinlanka.com/">Liveinlanka.com</a></b><br>
-  <sub>Stablecoin banking - cards, crypto, fiat rails, Multi-tenant SaaS, carbon accounting, and civic platforms — Agile [AI] Product lead, architecture through go live and maintenance.</sub>
+  <em>Product manager with a software engineering backbone — I ship products end-to-end, from discovery and roadmapping through architecture, build, and go-live.</em>
 </p>
 
-<p align="center">·
-  <a href="{{https://www.linkedin.com/in/achala-arunalu-meddegama/}}">LinkedIn</a> ·
-  <a href="mailto:{{PUBLIC_EMAIL}}">Email</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/achala-arunalu-meddegama/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="https://stablepeg.org/"><img src="https://img.shields.io/badge/Stablepeg.org-000?style=for-the-badge" alt="Stablepeg"></a>&nbsp;
+  <a href="https://susdevos.org/"><img src="https://img.shields.io/badge/SusDevOS.org-2E7D32?style=for-the-badge" alt="SusDevOS"></a>&nbsp;
+  <a href="https://liveinlanka.com/"><img src="https://img.shields.io/badge/LiveInLanka.com-FF6F00?style=for-the-badge" alt="LiveInLanka"></a>
 </p>
+
+---
+
+### 🧑‍💼 About Me
+
+I'm a **Product Manager** with 15+ years of experience across Singapore and Sri Lanka, and a deep background in **software engineering**. I lead cross-functional teams to deliver SaaS platforms, fintech products, and civic-tech solutions — and because I can code, I bridge the gap between product vision and technical execution like few PMs can.
+
+- 🔭 Currently building **[Stablepeg.org](https://stablepeg.org/)** — stablecoin banking (cards, crypto, fiat rails)
+- 🌱 Running **[Software Lifecycle Consultants](https://github.com/Software-Lifecycle-Consultants)** — taking products from architecture to production under open licences
+- 💬 Ask me about **product strategy, roadmapping, delivery governance, multi-tenant SaaS, and AI-augmented product development**
+- 🌍 Open to roles in **Dubai/UAE, Singapore, Sri Lanka, Berlin/Germany, or remote**
+
+---
+
+### 🛠️ Product & Leadership
+
+| Area | What I Do |
+|---|---|
+| **Product Strategy** | Discovery, opportunity sizing, roadmapping, OKRs, stakeholder alignment |
+| **Delivery Governance** | Agile ceremonies, release management, delivery operating systems, cross-team coordination |
+| **Technical Leadership** | Architecture decisions, API design, system design reviews, build-vs-buy evaluation |
+| **Team Building** | Hiring, mentoring engineers, fostering engineering culture in early-stage teams |
+| **Domain Expertise** | Fintech (stablecoin/crypto), sustainability (GHG accounting), real estate, government/civic tech |
+
+---
+
+### 💻 Tech Stack — *Because I Still Code*
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -24,78 +51,51 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" alt="Redis">
   <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
 </p>
 
 ---
 
-I run **[Software Lifecycle Consultants](https://github.com/Software-Lifecycle-Consultants)**, where we
-take products from architecture to production — and publish most of the result under open licences.
+### 📊 GitHub Stats
 
-My current focus is **[SusDevOS](https://github.com/Software-Lifecycle-Consultants/SusDevOS-Pro)**: a
-multi-tenant SaaS platform for greenhouse-gas reporting and sustainable development management. It's
-the place where the two halves of my work meet — I've spent years on environmental organising, and
-this is that concern expressed as an auditable system rather than a campaign.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=achala87&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achala87&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Top Languages" height="180">
+</p>
 
-The through-line everywhere else is **software that outlives the person who built it**: tri-lingual
-government tooling maintained by volunteers, hotel operations handed to non-technical staff, internal
-templates that make the next build cheaper than the last. Documented setup, honest schemas, real
-auth, containerised deploys, and tests that mean something.
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=achala87&hide_border=true&theme=default" alt="GitHub Streak" />
+</p>
 
-15+ years in Singapore and Sri Lanka. Currently open to Stable coin banking and fintech product/ program roles.
-
----
-
-### Selected work
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[SusDevOS-Pro](https://github.com/Software-Lifecycle-Consultants/SusDevOS-Pro)** | Multi-tenant GHG reporting and ecosystem-tracking SaaS for property and infrastructure. Server-side emissions engine, Scope 2 location- *and* market-based methods, verification locks that make audited records immutable, row-level tenant isolation, RBAC across 13 modules. **219 pytest tests.** | Django 5.1, Postgres 16, Redis 7, Celery, Next.js 14, TypeScript |
-| **[slc-open-hms](https://github.com/Software-Lifecycle-Consultants/slc-open-hms)** | Open-source hotel management platform — reservations, room inventory, guest services, payments, real-time status. **511 commits**, MIT, 3★ / 2 forks. | Next.js, TypeScript, MUI, Leaflet |
-| **[doa-farm-ops](https://github.com/Software-Lifecycle-Consultants/doa-farm-ops)** | Cost-of-cultivation reporting for Sri Lanka's Department of Agriculture. Farmers and field officers log land, crops and costs. Sinhala / Tamil / English throughout, with map-based land marking. **665 commits.** | Next.js, Express, Redux Toolkit, i18next, OpenLayers |
-| **[cycleparadise](https://github.com/Software-Lifecycle-Consultants/cycleparadise)** | Cycling-tour booking platform — calendar bookings, accommodation management, admin dashboard, SEO-first static generation. | Astro 4.16 hybrid, TS strict, Prisma, Docker multi-stage |
-| **[reforestsrilanka.com](https://github.com/achala87/reforestsrilanka.com)** | Released so any environmental org could fork it and stand up their own site. **4 forks** — it got reused, which was the point. | PHP, JS |
-
-<sub>More at **[@Software-Lifecycle-Consultants](https://github.com/Software-Lifecycle-Consultants)** —
-a .NET API backend, Shopify themes, Python MVPs, and a public proof-of-concept archive.</sub>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=achala87&theme=github-light&hide_border=true" alt="Activity Graph" />
+</p>
 
 ---
 
-### What I actually bring
+### 🚀 Selected Products I've Built & Shipped
 
-- **Domain-heavy backend design.** GHG accounting isn't CRUD: dual-method Scope 2, verification
-  states that must refuse writes, and a calculation engine that has to survive an auditor. I model
-  that server-side, on purpose, and test it — 219 tests on SusDevOS alone.
-- **Multi-tenancy done properly.** Row-level isolation by entity, JWT with short-lived access
-  tokens, role-based access across 13 modules, feature gating per tenant.
-- **Contract-first APIs.** OpenAPI schema via drf-spectacular, TypeScript client generated from it.
-  The frontend can't drift from the backend because it isn't hand-written.
-- **Polyglot by choice, not accident.** Django and .NET and Express and Laravel on the back;
-  Next.js and Astro on the front; Postgres underneath. I pick per problem and can defend the pick.
-- **Internationalisation designed in, not bolted on.** Sinhala/Tamil/English schemas, geospatial
-  land marking, hierarchical geographies with radius search.
-- **Delivery for low-budget, high-stakes users.** Government agriculture, environmental NGOs, small
-  tour operators. No SRE team, no rescue budget — it has to work and keep working.
+| Product | What It Does | My Role | Stack |
+|---|---|---|---|
+| **[SusDevOS-Pro](https://github.com/Software-Lifecycle-Consultants/SusDevOS-Pro)** | Multi-tenant GHG reporting SaaS — emissions engine, Scope 2 dual methods, verification locks, RBAC across 13 modules. **219 tests.** | Product owner & tech lead | Django 5.1, Postgres 16, Redis, Celery, Next.js 14, TS |
+| **[slc-open-hms](https://github.com/Software-Lifecycle-Consultants/slc-open-hms)** | Open-source hotel management — reservations, inventory, guest services, payments. **511 commits**, 3★/2 forks. | Product lead | Next.js, TypeScript, MUI, Leaflet |
+| **[doa-farm-ops](https://github.com/Software-Lifecycle-Consultants/doa-farm-ops)** | Cost-of-cultivation reporting for Sri Lanka's Dept. of Agriculture. Tri-lingual, map-based. **665 commits.** | Product manager & architect | Next.js, Express, Redux Toolkit, i18next |
+| **[cycleparadise](https://github.com/Software-Lifecycle-Consultants/cycleparadise)** | Cycling-tour booking platform — calendar, accommodation, admin dashboard, SEO-first. | Product & delivery lead | Astro 4.16, TS strict, Prisma, Docker |
+| **[reforestsrilanka.com](https://github.com/achala87/reforestsrilanka.com)** | Open-sourced so any environmental org could fork and launch. **4 forks** — it got reused. | Creator | PHP, JS |
+
+<sub>More at <b><a href="https://github.com/Software-Lifecycle-Consultants">@Software-Lifecycle-Consultants</a></b> — .NET APIs, Shopify themes, Python MVPs, and a proof-of-concept archive.</sub>
 
 ---
 
-### Open to
-- **Senior / lead product and technical roles** — remote or in Dubai/ UAE, Singapore, Sri Lanka, Berline, Germany.
-- **Consulting engagements** — product and innovation, road mapping, release governance and delivery operating systems setup, greenfield builds, architecture 
+### 🤝 Open To
+
+- **Product Management / Technical Program roles** — remote or in Dubai/UAE, Singapore, Sri Lanka, Berlin/Germany
+- **Consulting** — product strategy, innovation, roadmapping, release governance, delivery operating systems, greenfield builds, architecture reviews
 
 ---
-
-<details>
-<summary><b>GitHub activity</b></summary>
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=achala87&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achala87&layout=compact&hide_border=true&langs_count=8" alt="Top languages">
-
-</details>
 
 <p align="center"><sub>
-Open source as a delivery model — if something here is useful to your organisation, take it and run.
+Product-minded engineer. Open source as a delivery model — if something here is useful to your organisation, take it and run.
 </sub></p>
