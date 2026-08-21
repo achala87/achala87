@@ -1,10 +1,10 @@
-<h1 align="center">Achala Arunalu</h1>
+<h1 align="center">Achala Arunalu - AI Product Management and Delivery Governance</h1>
 
 <p align="center">
-  <b>{{Stablecoin Banking and Fintech}}, <a href="https://stablepeg.org/">Stablepeg.org</a></b><br>
-  <b>{{Sustainability tech.}}, <a href="https://susdevos.org/">Susdevos.org</a></b><br>
-  <b>{{Real Estate tech.}}, <a href="https://liveinlanka.com/">Liveinlanka.com</a></b><br>
-  <sub>Multi-tenant SaaS, carbon accounting, and civic platforms — Agile [AI] Product lead, architecture through go live and maintenance.</sub>
+  <b>Stablecoin Banking and Fintech, <a href="https://stablepeg.org/">Stablepeg.org</a></b><br>
+  <b>Sustainability tech., <a href="https://susdevos.org/">Susdevos.org</a></b><br>
+  <b>Real Estate tech., <a href="https://liveinlanka.com/">Liveinlanka.com</a></b><br>
+  <sub>Stablecoin banking - cards, crypto, fiat rails, Multi-tenant SaaS, carbon accounting, and civic platforms — Agile [AI] Product lead, architecture through go live and maintenance.</sub>
 </p>
 
 <p align="center">·
