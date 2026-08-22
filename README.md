@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achala Arunalu</h1>
-<h3 align="center">Product Manager | Technical Lead | Software Engineer</h3>
+<h3 align="center">Product Manager | AI Individual contributor/ Solution Architect</h3>
 
 <p align="center">
   <em>Product manager with a software engineering backbone — I ship products end-to-end, from discovery and roadmapping through architecture, build, and go-live.</em>
@@ -16,7 +16,7 @@
 
 ### 🧑‍💼 About Me
 
-I'm a **Product Manager** with 15+ years of experience across Singapore and Sri Lanka, and a deep background in **software engineering**. I lead cross-functional teams to deliver SaaS platforms, fintech products, and civic-tech solutions — and because I can code, I bridge the gap between product vision and technical execution like few PMs can.
+I'm a **Product Manager** with 15+ years of experience across Singapore and Sri Lanka, and a deep background in **software engineering**. I lead cross-functional teams to deliver AI enabled SaaS platforms, web3/ stablecoin fintech products, and civic-tech solutions — and because I can code, I bridge the gap between product vision and technical execution like few PMs can. I also have a deep understanding of VPS, Cloud - AWS/ GCP/ Azure regional solution deployments as well.
 
 - 🔭 Currently building **[Stablepeg.org](https://stablepeg.org/)** — stablecoin banking (cards, crypto, fiat rails)
 - 🌱 Running **[Software Lifecycle Consultants](https://github.com/Software-Lifecycle-Consultants)** — taking products from architecture to production under open licences
@@ -85,13 +85,13 @@ I'm a **Product Manager** with 15+ years of experience across Singapore and Sri 
 | **[cycleparadise](https://github.com/Software-Lifecycle-Consultants/cycleparadise)** | Cycling-tour booking platform — calendar, accommodation, admin dashboard, SEO-first. | Product & delivery lead | Astro 4.16, TS strict, Prisma, Docker |
 | **[reforestsrilanka.com](https://github.com/achala87/reforestsrilanka.com)** | Open-sourced so any environmental org could fork and launch. **4 forks** — it got reused. | Creator | PHP, JS |
 
-<sub>More at <b><a href="https://github.com/Software-Lifecycle-Consultants">@Software-Lifecycle-Consultants</a></b> — .NET APIs, Shopify themes, Python MVPs, and a proof-of-concept archive.</sub>
+<sub>More at <b><a href="https://github.com/Software-Lifecycle-Consultants">@Software-Lifecycle-Consultants</a></b> — TypeScript, JS, NodeJS, PHP, Go Lang, .NET APIs, Shopify themes, Python, and a proof-of-concept archive.</sub>
 
 ---
 
 ### 🤝 Open To
 
-- **Product Management / Technical Program roles** — remote or in Dubai/UAE, Singapore, Sri Lanka, Berlin/Germany
+- **Product Management / Technical Program roles** — remote or in Dubai/UAE, Singapore, Sri Lanka, Berlin, München - Germany
 - **Consulting** — product strategy, innovation, roadmapping, release governance, delivery operating systems, greenfield builds, architecture reviews
 
 ---
