@@ -29,11 +29,12 @@ I'm a **Product Manager** with 15+ years of experience across Singapore and Sri 
 
 | Area | What I Do |
 |---|---|
-| **Product Strategy** | Discovery, opportunity sizing, roadmapping, OKRs, stakeholder alignment |
+| **Product Strategy** | Discovery, opportunity sizing, roadmapping, OKRs, stakeholder alignment, vendor evaluation and negotiations, legal and compliance  |
+| **Fintech - Stablecoin banking** | Cards, Compliance and AML/ Fraud, Internal Admin Tools - AI/ BI/ ML setup  |
 | **Delivery Governance** | Agile ceremonies, release management, delivery operating systems, cross-team coordination |
 | **Technical Leadership** | Architecture decisions, API design, system design reviews, build-vs-buy evaluation |
 | **Team Building** | Hiring, mentoring engineers, fostering engineering culture in early-stage teams |
-| **Domain Expertise** | Fintech (stablecoin/crypto), sustainability (GHG accounting), real estate, government/civic tech |
+| **Domain Expertise** | Fintech (stablecoin/crypto), sustainability (GHG accounting), Real-estate, e-Government/Civic tech, VoiP/ WebRTC, e-Learning/ LMS, OTA/ Tourism, PCB - IoT Electronics/ Biometric devices and HRIS  |
 
 ---
 
