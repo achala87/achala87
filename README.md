@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achala Arunalu</h1>
-<h3 align="center">Product Manager | AI Individual contributor/ Solution Architect</h3>
+<h3 align="center">Product Manager | AI Individual contributor | Solution Architect</h3>
 
 <p align="center">
   <em>Product manager with a software engineering backbone — I ship products end-to-end, from discovery and roadmapping through architecture, build, and go-live.</em>
