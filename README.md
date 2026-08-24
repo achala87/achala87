@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/achala-arunalu-meddegama/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
   <a href="https://stablepeg.org/"><img src="https://img.shields.io/badge/Stablepeg.org-000?style=for-the-badge" alt="Stablepeg"></a>&nbsp;
-  <a href="https://susdevos.org/"><img src="https://img.shields.io/badge/SusDevOS.org-2E7D32?style=for-the-badge" alt="SusDevOS"></a>&nbsp;
+  <a href="https://susdevos.com/"><img src="https://img.shields.io/badge/SusDevOS.com-2E7D32?style=for-the-badge" alt="SusDevOS"></a>&nbsp;
   <a href="https://liveinlanka.com/"><img src="https://img.shields.io/badge/LiveInLanka.com-FF6F00?style=for-the-badge" alt="LiveInLanka"></a>
 </p>
 
